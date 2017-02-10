@@ -2,80 +2,108 @@
 	"wallpapers": [
 		{
 			"name": "bleu",
-			"author": "Loraine Phuket",
+			"author": "Loraine Phuket - Pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/bleu.png",
 			"dimensions": "1080 x 1920",
-			"copyright": "Copyright LP design Pixabay"
+			"copyright": "LP"
 		},
 		{
 			"name": "charbon",
-			"author": "Loraine Phuket",
+			"author": "Loraine Phuket - Pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/charbon.png",
 			"dimensions": "1080 x 1920",
-			"copyright": "Copyright LP design Pixabay"
+			"copyright": "LP"
 		},
 		{
 			"name": "ciel",
-			"author": "Loraine Phuket",
+			"author": "Loraine Phuket - Pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/ciel.png",
 			"dimensions": "1080 x 1920",
-			"copyright": "Copyright LP design Pixabay"
+			"copyright": "LP"
 		},
 		{
 			"name": "elephant",
-			"author": "Loraine Phuket",
+			"author": "Loraine Phuket - Pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/elephant.jpg",
 			"dimensions": "1440 x 1920",
-			"copyright": "Copyright LP design Pixabay"
+			"copyright": "LP"
+		},
+		{
+			"name": "grille",
+			"author": "Loraine Phuket - Pixabay",
+			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/grille.jpg",
+			"dimensions": "1920 x 1278",
+			"copyright": "LP"
 		},
 		{
 			"name": "marron",
-			"author": "Loraine Phuket",
+			"author": "Loraine Phuket - Pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/marron.png",
 			"dimensions": "1080 x 1920",
-			"copyright": "Copyright LP design Pixabay"
+			"copyright": "LP"
 		},
 		{
 			"name": "or",
-			"author": "Loraine Phuket",
+			"author": "Loraine Phuket - Pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/or.png",
 			"dimensions": "1080 x 1920",
-			"copyright": "Copyright LP design Pixabay"
+			"copyright": "LP"
 		},
 		{
 			"name": "perle",
-			"author": "Loraine Phuket",
+			"author": "Loraine Phuket - Pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/perle.png",
 			"dimensions": "1080 x 1920",
-			"copyright": "Copyright LP design Pixabay"
+			"copyright": "LP"
 		},
 		{
 			"name": "rubis",
-			"author": "Loraine Phuket",
+			"author": "Loraine Phuket - Pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/rubis.png",
 			"dimensions": "1080 x 1920",
-			"copyright": "Copyright LP design Pixabay"
+			"copyright": "LP"
+		},
+		{
+			"name": "star_bleu",
+			"author": "Loraine Phuket - Pixabay",
+			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/star_bleu.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "LP"
+		},
+		{
+			"name": "star_rose",
+			"author": "Loraine Phuket - Pixabay",
+			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/star_rose.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "LP"
+		},
+		{
+			"name": "star_vert",
+			"author": "Loraine Phuket - Pixabay",
+			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/star_vert.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "LP"
 		},
 		{
 			"name": "vert",
-			"author": "Loraine Phuket",
+			"author": "Loraine Phuket - Pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/vert.png",
 			"dimensions": "1080 x 1920",
-			"copyright": "Copyright LP design Pixabay"
+			"copyright": "LP"
 		},
 		{
 			"name": "zen (1)",
-			"author": "Loraine Phuket",
-			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/zen (1).jpg",
+			"author": "Loraine Phuket - Pixabay",
+			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/zen.jpg",
 			"dimensions": "1920 x 1280",
-			"copyright": "Copyright LP design Pixabay"
+			"copyright": "LP"
 		},
 		{
 			"name": "zen (2)",
-			"author": "Loraine Phuket",
-			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/zen (2).jpg",
+			"author": "Loraine Phuket - Pixabay",
+			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/zenb.jpg",
 			"dimensions": "1920 x 1080",
-			"copyright": "Copyright LP design Pixabay"
+			"copyright": "LP"
 		}
 	]
 }
