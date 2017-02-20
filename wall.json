@@ -2,192 +2,290 @@
 	"wallpapers": [
 		{
 			"name": "bleu",
-			"author": "Loraine Phuket + Pikabay",
+			"author": "Loraine Phuket - Photos pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/bleu.png",
 			"dimensions": "1080 x 1920",
-			"copyright": "LP- PIXABAY"
+			"copyright": "Loraine Phuket - Photo pixabay"
 		},
 		{
 			"name": "charbon",
-			"author": "Loraine Phuket + Pikabay",
+			"author": "Loraine Phuket - Photos pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/charbon.png",
 			"dimensions": "1080 x 1920",
-			"copyright": "LP- PIXABAY"
+			"copyright": "Loraine Phuket - Photo pixabay"
 		},
 		{
 			"name": "ciel",
-			"author": "Loraine Phuket + Pikabay",
+			"author": "Loraine Phuket - Photos pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/ciel.png",
 			"dimensions": "1080 x 1920",
-			"copyright": "LP- PIXABAY"
+			"copyright": "Loraine Phuket - Photo pixabay"
 		},
 		{
 			"name": "city",
-			"author": "Loraine Phuket + Pikabay",
+			"author": "Loraine Phuket - Photos pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/city.jpg",
 			"dimensions": "1920 x 1280",
-			"copyright": "LP- PIXABAY"
+			"copyright": "Loraine Phuket - Photo pixabay"
 		},
 		{
 			"name": "cloud",
-			"author": "Loraine Phuket + Pikabay",
+			"author": "Loraine Phuket - Photos pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/cloud.jpg",
 			"dimensions": "1920 x 1280",
-			"copyright": "LP- PIXABAY"
+			"copyright": "Loraine Phuket - Photo pixabay"
 		},
 		{
 			"name": "elephant",
-			"author": "Loraine Phuket + Pikabay",
+			"author": "Loraine Phuket - Photos pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/elephant.jpg",
 			"dimensions": "1440 x 1920",
-			"copyright": "LP- PIXABAY"
+			"copyright": "Loraine Phuket - Photo pixabay"
 		},
 		{
 			"name": "grille",
-			"author": "Loraine Phuket + Pikabay",
+			"author": "Loraine Phuket - Photos pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/grille.jpg",
 			"dimensions": "1920 x 1278",
-			"copyright": "LP- PIXABAY"
+			"copyright": "Loraine Phuket - Photo pixabay"
 		},
 		{
 			"name": "lake",
-			"author": "Loraine Phuket + Pikabay",
+			"author": "Loraine Phuket - Photos pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/lake.jpg",
 			"dimensions": "1920 x 1275",
-			"copyright": "LP- PIXABAY"
+			"copyright": "Loraine Phuket - Photo pixabay"
 		},
 		{
 			"name": "marron",
-			"author": "Loraine Phuket + Pikabay",
+			"author": "Loraine Phuket - Photos pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/marron.png",
 			"dimensions": "1080 x 1920",
-			"copyright": "LP- PIXABAY"
+			"copyright": "Loraine Phuket - Photo pixabay"
 		},
 		{
 			"name": "mountain",
-			"author": "Loraine Phuket + Pikabay",
+			"author": "Loraine Phuket - Photos pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/mountain.jpg",
 			"dimensions": "3000 x 1994",
-			"copyright": "LP- PIXABAY"
+			"copyright": "Loraine Phuket - Photo pixabay"
 		},
 		{
 			"name": "mucem",
-			"author": "Loraine Phuket + Pikabay",
+			"author": "Loraine Phuket - Photos pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/mucem.jpg",
 			"dimensions": "1920 x 2560",
-			"copyright": "LP- PIXABAY"
+			"copyright": "Loraine Phuket - Photo pixabay"
 		},
 		{
 			"name": "or",
-			"author": "Loraine Phuket + Pikabay",
+			"author": "Loraine Phuket - Photos pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/or.png",
 			"dimensions": "1080 x 1920",
-			"copyright": "LP- PIXABAY"
+			"copyright": "Loraine Phuket - Photo pixabay"
 		},
 		{
 			"name": "perle",
-			"author": "Loraine Phuket + Pikabay",
+			"author": "Loraine Phuket - Photos pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/perle.png",
 			"dimensions": "1080 x 1920",
-			"copyright": "LP- PIXABAY"
+			"copyright": "Loraine Phuket - Photo pixabay"
 		},
 		{
 			"name": "port",
-			"author": "Loraine Phuket + Pikabay",
+			"author": "Loraine Phuket - Photos pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/port.jpg",
 			"dimensions": "3000 x 2000",
-			"copyright": "LP- PIXABAY"
+			"copyright": "Loraine Phuket - Photo pixabay"
+		},
+		{
+			"name": "rabbit_black",
+			"author": "Loraine Phuket - Photos pixabay",
+			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/rabbit_black.png",
+			"dimensions": "2454 x 2179",
+			"copyright": "Loraine Phuket - Photo pixabay"
+		},
+		{
+			"name": "rabbit_bleu",
+			"author": "Loraine Phuket - Photos pixabay",
+			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/rabbit_bleu.png",
+			"dimensions": "2454 x 2179",
+			"copyright": "Loraine Phuket - Photo pixabay"
+		},
+		{
+			"name": "rabbit_bleu_b",
+			"author": "Loraine Phuket - Photos pixabay",
+			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/rabbit_bleu_b.png",
+			"dimensions": "2454 x 2179",
+			"copyright": "Loraine Phuket - Photo pixabay"
+		},
+		{
+			"name": "rabbit_green",
+			"author": "Loraine Phuket - Photos pixabay",
+			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/rabbit_green.png",
+			"dimensions": "2454 x 2179",
+			"copyright": "Loraine Phuket - Photo pixabay"
+		},
+		{
+			"name": "rabbit_green_b",
+			"author": "Loraine Phuket - Photos pixabay",
+			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/rabbit_green_b.png",
+			"dimensions": "2454 x 2179",
+			"copyright": "Loraine Phuket - Photo pixabay"
+		},
+		{
+			"name": "rabbit_orange",
+			"author": "Loraine Phuket - Photos pixabay",
+			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/rabbit_orange.png",
+			"dimensions": "2454 x 2179",
+			"copyright": "Loraine Phuket - Photo pixabay"
+		},
+		{
+			"name": "rabbit_orange_b",
+			"author": "Loraine Phuket - Photos pixabay",
+			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/rabbit_orange_b.png",
+			"dimensions": "2454 x 2179",
+			"copyright": "Loraine Phuket - Photo pixabay"
+		},
+		{
+			"name": "rabbit_pink",
+			"author": "Loraine Phuket - Photos pixabay",
+			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/rabbit_pink.png",
+			"dimensions": "2454 x 2179",
+			"copyright": "Loraine Phuket - Photo pixabay"
+		},
+		{
+			"name": "rabbit_pink_b",
+			"author": "Loraine Phuket - Photos pixabay",
+			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/rabbit_pink_b.png",
+			"dimensions": "2454 x 2179",
+			"copyright": "Loraine Phuket - Photo pixabay"
+		},
+		{
+			"name": "rabbit_purple",
+			"author": "Loraine Phuket - Photos pixabay",
+			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/rabbit_purple.png",
+			"dimensions": "2454 x 2179",
+			"copyright": "Loraine Phuket - Photo pixabay"
+		},
+		{
+			"name": "rabbit_purple_b",
+			"author": "Loraine Phuket - Photos pixabay",
+			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/rabbit_purple_b.png",
+			"dimensions": "2454 x 2179",
+			"copyright": "Loraine Phuket - Photo pixabay"
+		},
+		{
+			"name": "rabbit_white",
+			"author": "Loraine Phuket - Photos pixabay",
+			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/rabbit_white.png",
+			"dimensions": "2454 x 2179",
+			"copyright": "Loraine Phuket - Photo pixabay"
+		},
+		{
+			"name": "rabbit_yellow",
+			"author": "Loraine Phuket - Photos pixabay",
+			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/rabbit_yellow.png",
+			"dimensions": "2454 x 2179",
+			"copyright": "Loraine Phuket - Photo pixabay"
+		},
+		{
+			"name": "rabbit_yellow_b",
+			"author": "Loraine Phuket - Photos pixabay",
+			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/rabbit_yellow_b.png",
+			"dimensions": "2454 x 2179",
+			"copyright": "Loraine Phuket - Photo pixabay"
 		},
 		{
 			"name": "road",
-			"author": "Loraine Phuket + Pikabay",
+			"author": "Loraine Phuket - Photos pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/road.jpg",
 			"dimensions": "6144 x 3661",
-			"copyright": "LP- PIXABAY"
+			"copyright": "Loraine Phuket - Photo pixabay"
 		},
 		{
 			"name": "rubis",
-			"author": "Loraine Phuket + Pikabay",
+			"author": "Loraine Phuket - Photos pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/rubis.png",
 			"dimensions": "1080 x 1920",
-			"copyright": "LP- PIXABAY"
+			"copyright": "Loraine Phuket - Photo pixabay"
 		},
 		{
 			"name": "sky",
-			"author": "Loraine Phuket + Pikabay",
+			"author": "Loraine Phuket - Photos pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/sky.jpg",
 			"dimensions": "1920 x 1279",
-			"copyright": "LP- PIXABAY"
+			"copyright": "Loraine Phuket - Photo pixabay"
 		},
 		{
 			"name": "snow",
-			"author": "Loraine Phuket + Pikabay",
+			"author": "Loraine Phuket - Photos pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/snow.jpg",
 			"dimensions": "1920 x 1280",
-			"copyright": "LP- PIXABAY"
+			"copyright": "Loraine Phuket - Photo pixabay"
 		},
 		{
 			"name": "stairs",
-			"author": "Loraine Phuket + Pikabay",
+			"author": "Loraine Phuket - Photos pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/stairs.jpg",
 			"dimensions": "1280 x 1920",
-			"copyright": "LP- PIXABAY"
+			"copyright": "Loraine Phuket - Photo pixabay"
 		},
 		{
 			"name": "star_bleu",
-			"author": "Loraine Phuket + Pikabay",
+			"author": "Loraine Phuket - Photos pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/star_bleu.png",
 			"dimensions": "1080 x 1920",
-			"copyright": "LP- PIXABAY"
+			"copyright": "Loraine Phuket - Photo pixabay"
 		},
 		{
 			"name": "star_rose",
-			"author": "Loraine Phuket + Pikabay",
+			"author": "Loraine Phuket - Photos pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/star_rose.png",
 			"dimensions": "1080 x 1920",
-			"copyright": "LP- PIXABAY"
+			"copyright": "Loraine Phuket - Photo pixabay"
 		},
 		{
 			"name": "star_vert",
-			"author": "Loraine Phuket + Pikabay",
+			"author": "Loraine Phuket - Photos pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/star_vert.png",
 			"dimensions": "1080 x 1920",
-			"copyright": "LP- PIXABAY"
+			"copyright": "Loraine Phuket - Photo pixabay"
 		},
 		{
 			"name": "sunset",
-			"author": "Loraine Phuket + Pikabay",
+			"author": "Loraine Phuket - Photos pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/sunset.jpg",
 			"dimensions": "1920 x 1080",
-			"copyright": "LP- PIXABAY"
+			"copyright": "Loraine Phuket - Photo pixabay"
 		},
 		{
 			"name": "tower",
-			"author": "Loraine Phuket + Pikabay",
+			"author": "Loraine Phuket - Photos pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/tower.jpg",
 			"dimensions": "1920 x 1080",
-			"copyright": "LP- PIXABAY"
+			"copyright": "Loraine Phuket - Photo pixabay"
 		},
 		{
 			"name": "vert",
-			"author": "Loraine Phuket + Pikabay",
+			"author": "Loraine Phuket - Photos pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/vert.png",
 			"dimensions": "1080 x 1920",
-			"copyright": "LP- PIXABAY"
+			"copyright": "Loraine Phuket - Photo pixabay"
 		},
 		{
 			"name": "zen",
-			"author": "Loraine Phuket + Pikabay",
+			"author": "Loraine Phuket - Photos pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/zen.jpg",
 			"dimensions": "1920 x 1280",
-			"copyright": "LP- PIXABAY"
+			"copyright": "Loraine Phuket - Photo pixabay"
 		},
 		{
 			"name": "zenb",
-			"author": "Loraine Phuket + Pikabay",
+			"author": "Loraine Phuket - Photos pixabay",
 			"url": "https://raw.githubusercontent.com/loraine19/Graphieswall/master/zenb.jpg",
 			"dimensions": "1920 x 1080",
-			"copyright": "LP- PIXABAY"
+			"copyright": "Loraine Phuket - Photo pixabay"
 		}
 	]
 }
